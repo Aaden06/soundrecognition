@@ -1,0 +1,28 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+body{
+    background-color: brown;
+    font-family: 'Bad Script', cursive;
+}
+#header{
+    background-color: darkblue;
+    margin: 0;
+    padding: 50px;
+    border-bottom: 2px solid white;
+    color: red;
+    font-family: 'Varela Round', sans-serif;
+}
+#header a{
+    color: white;
+}
+#header p{
+    color:white;
+    font-family: 'Kalam', cursive;
+}
+#start{
+    width:100px;
+    height:50px;
+    font-size: 35px;
+}
